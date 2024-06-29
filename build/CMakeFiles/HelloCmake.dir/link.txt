@@ -1,0 +1,1 @@
+/usr/local/bin/g++-14  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/HelloCmake.dir/src/main.cpp.o -o /Users/wangyingwen/work/C:C++/HelloCmake/bin/HelloCmake

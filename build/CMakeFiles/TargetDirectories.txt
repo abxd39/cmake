@@ -1,0 +1,3 @@
+/Users/wangyingwen/work/C:C++/HelloCmake/build/CMakeFiles/HelloCmake.dir
+/Users/wangyingwen/work/C:C++/HelloCmake/build/CMakeFiles/edit_cache.dir
+/Users/wangyingwen/work/C:C++/HelloCmake/build/CMakeFiles/rebuild_cache.dir
